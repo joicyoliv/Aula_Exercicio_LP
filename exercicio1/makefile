@@ -12,7 +12,7 @@ DOC = ./doc
 LIB = ./lib
 
 # Define o nome do binario/executavel final
-#PROG = $(BIN)/exercicio1
+PROG = $(BIN)/exercicio1
 
 # Opcoes de compilacao
 CFLAGS = -Wall -pedantic -std=c++11 -I$(INC)
